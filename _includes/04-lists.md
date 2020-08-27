@@ -3,7 +3,6 @@
     I am a third year undergrad student fro India, majoring in Mathematics. I identify myself as an enthusiastic learner willing to take on new challenges to increse my knowledge and skill level. Apart from Mathematics, I have keen interest in Astronomy, Astrophysics and Computer Science. 
 </details>
 <br>
-<br>
 <details> 
     <summary> Interests and Hobbies </summary>
     Apart from academics, I am very passioante about sports. I canot define myself ithout including sports because it has made such an impact on the person that I am.<br>
@@ -13,7 +12,6 @@
         3. Tennis 🎾 <br>
         4. Singing 🎶 <br>
 </details>
-<br>
 <br>
 <details>
     <summary> I am currently learning: </summary>
