@@ -17,8 +17,8 @@
 </details>
 <details>
     <summary> I am currently learning: </summary>
-        1. Mathematical Analysis 
+        1. Mathematical Analysis <br>
         2. Python <br>
         3. Git and Github <br>
         4. Machine learning <br>
-<details>        
+</details>        
