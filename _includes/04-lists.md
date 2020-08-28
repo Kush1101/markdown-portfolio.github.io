@@ -1,6 +1,6 @@
 <details> 
     <summary> About Me 👋🏻 </summary>
-    I am a third year undergrad student fro India, majoring in Mathematics. I identify myself as an enthusiastic learner willing to take on new challenges to increse my knowledge and skill level. Apart from Mathematics, I have keen interest in Astronomy, Astrophysics and Computer Science. 
+    I am a third year undergrad student from India, majoring in Mathematics. I identify myself as an enthusiastic learner willing to take on new challenges to increse my knowledge and skill level. Apart from Mathematics, I have keen interest in Astronomy, Astrophysics and Computer Science. 
 </details>
 <br>
 <details> 
